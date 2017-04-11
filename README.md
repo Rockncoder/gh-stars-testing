@@ -1,0 +1,28 @@
+# GH-Stars-Testing
+by Troy Miles aka @therockncoder 
+
+GitHub Stars 
+Learn to test Angular apps by pinging the GitHub Search API. This is a learning project I use to teach Angular, Angular Material and Angular Unit Testing.
+
+Other topics I teach:
+* JavaScript
+* Angular
+* React
+* React Native, _build mobile apps in JavaScript for Android & iOS_
+* Flux, Redux, MobX _Modern State Controllers for JavaScript_
+* Android
+* Android Unit Testing and Best Practices
+* Android _in Kotlin_
+* Node.js
+* Ratpack, _Fast Java, Groovy, or Kotlin based web server_
+
+We have affordable weekend boot-camps on these subjects year-round in sunny Southern California. We can also arrange on-site training at your offices.
+Reach out to me on Twitter @therockncoder or email at rockncoder@gmail.com. Be sure to check out [my YouTube channel](https://www.youtube.com/rockncoder).
+
+
+_**If you find this repo useful please star it! It is an easy thing to do, makes me smile, and makes me want to continue coding into the night.**_ 
+:smile:
+
+---
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
